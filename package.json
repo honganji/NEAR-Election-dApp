@@ -1,0 +1,16 @@
+{
+  "name": "near-election-dapp",
+  "version": "1.0.0",
+  "description": "Create election dapp",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "contract": "yarn workspace contract",
+    "client": "yarn workspace client",
+    "test": "yarn workspace contract test"
+  }
+}
