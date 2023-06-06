@@ -19,7 +19,7 @@
 
 ## • Overview
 
-I made this project and text by myself. The text is located [this URL](https://app.unchain.tech/learn/ETH-dApp/). This is used in the engineer cmmunity `UNCHAIN`. 
+I made this project and text by myself. The text is located [this URL](https://app.unchain.tech/learn/ETH-dApp/). This is used in the engineer cmmunity `UNCHAIN`.
 
 This is dapp that you can run an election equaly using NEAR blockchain. You can distribute voting ticket and those who have it can vote once. If you are deployer, you can open and close the election whenever you want.
 
